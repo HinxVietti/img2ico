@@ -19,7 +19,7 @@ ico file ; contains ico array.
 
 ## Description
 
-[[desc]]("https://raw.githubusercontent.com/HinxVietti/img2ico/main/Docs/ICO format.md")  
+[[desc]]("https://raw.githubusercontent.com/HinxVietti/img2ico/main/Docs/ICO%20format.md")  
 [[ico file Wiki]](https://en.wikipedia.org/wiki/ICO_(file_format))
 
 ### ICO Header
