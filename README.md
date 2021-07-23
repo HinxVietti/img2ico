@@ -5,7 +5,7 @@ A resolution for image to ico file C#.
 
 example
 
-![howto](Docs\howto.png)
+![howto](./Docs\howto.png)
 
 ```
 img2ico.exe [image array...]
