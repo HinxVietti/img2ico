@@ -19,7 +19,7 @@ ico file ; contains ico array.
 
 ## Description
 
-[Desc..](Docs/ICO format.md)  [[Wiki]](https://en.wikipedia.org/wiki/ICO_(file_format))
+[Desc..](./Docs/ICO format.md)  [[ico file Wiki]](https://en.wikipedia.org/wiki/ICO_(file_format))
 
 ### ICO Header
 
