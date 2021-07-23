@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "img2ico_test", "img2ico_test\img2ico_test.csproj", "{BAF91C66-8B44-4AA4-97DA-CA9B143BD48B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "img2ico.core", "img2ico.core\img2ico.core.csproj", "{045425CB-5F5C-4D5B-9B66-969E8BA8B27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "img2ico", "img2ico\img2ico.csproj", "{2C1FE013-FC6C-4EBF-80EB-7886C351E122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF91C66-8B44-4AA4-97DA-CA9B143BD48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF91C66-8B44-4AA4-97DA-CA9B143BD48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF91C66-8B44-4AA4-97DA-CA9B143BD48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF91C66-8B44-4AA4-97DA-CA9B143BD48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045425CB-5F5C-4D5B-9B66-969E8BA8B27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045425CB-5F5C-4D5B-9B66-969E8BA8B27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045425CB-5F5C-4D5B-9B66-969E8BA8B27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045425CB-5F5C-4D5B-9B66-969E8BA8B27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1FE013-FC6C-4EBF-80EB-7886C351E122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1FE013-FC6C-4EBF-80EB-7886C351E122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1FE013-FC6C-4EBF-80EB-7886C351E122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1FE013-FC6C-4EBF-80EB-7886C351E122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4CC9F1E-3062-43A9-AC3D-FC45103DFD4F}
+	EndGlobalSection
+EndGlobal
