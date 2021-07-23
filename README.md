@@ -5,7 +5,7 @@ A resolution for image to ico file C#.
 
 example
 
-![howto]("./Docs\howto.png")
+![howto](https://raw.githubusercontent.com/HinxVietti/img2ico/main/Docs/howto.png)
 
 ```
 img2ico.exe [image array...]
@@ -19,7 +19,8 @@ ico file ; contains ico array.
 
 ## Description
 
-[Desc..](./Docs/ICO format.md)  [[ico file Wiki]](https://en.wikipedia.org/wiki/ICO_(file_format))
+[[desc]]("https://raw.githubusercontent.com/HinxVietti/img2ico/main/Docs/ICO format.md")  
+[[ico file Wiki]](https://en.wikipedia.org/wiki/ICO_(file_format))
 
 ### ICO Header
 
